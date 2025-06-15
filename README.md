@@ -1,13 +1,10 @@
-<h2 align="left">Hi 👋! My name is Shubham Raorane. A passionate frontend developer from India</h2>
-
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ShubhamRaorane11/count.svg?"  />
 </div>
 
-###
-
+## 💻 Tech Stack ⚡
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shubham-raorane-a548b432a/" target="_blank">
