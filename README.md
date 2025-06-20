@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub! 👋</h1>
 
 <p align="center">
-  I'm <strong>Shubham Raorane</strong>, a curious and self-driven developer from India 🇮🇳 <br>
+  I'm <strong>Shubham Raorane</strong>, a curious and self-driven developer from India <br>
   I love building web apps, solving problems with code, and exploring new tech.
 </p>
 
